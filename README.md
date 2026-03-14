@@ -179,24 +179,22 @@ Database
 
 # 📊 Screenshots
 
-(Add screenshots here)
 
-Suggested screenshots:
 
 1. Role Selection Register (Admin / Doctor / Patient)  
-![alt text](src/screenshots/register.png)
+![Register](screenshots/register.png)
 
 2. medicine-reminder
-![alt text](src/screenshots/medreminder.png)
+![medicine-Remainder](screenshots/medreminder.png)
 
 3. QR Health-card scanner code
-![alt text](src/screenshots/qrcode.png)
+![QR-code](screenshots/qrcode.png)
 
 4. Appointment-Management
-![alt text](src/screenshots/Appointments.png)
+![Appointments](screenshots/Appointments.png)
 
 5. Admin Dashboard  
-![alt text](src/screenshots/AdminDashboard.png)
+![Admin-Dashboard](screenshots/AdminDashboard.png)
 ---
 
 ## ⚙️ How to Run the Project
